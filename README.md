@@ -2,6 +2,7 @@
 
 - There are some simple data algorithms to create graphics and change something
 - something.py - is the example of finding the trend function
+![Что-то пошло не так](description/zero.png "Главное меню")
 - graph.py is the example of finding the SMA (метод скользящего среднего) offline
 ![Что-то пошло не так](description/first.png "Главное меню")
 - graph-2.py is the example of finding the SMA (метод скользящего среднего) online
